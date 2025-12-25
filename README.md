@@ -1,5 +1,5 @@
 # Confronto algoritmi di ordinamento: Insertion-sort vs Heap-sort
-Il progetto consiste in un Jupyter Notebook sviluppato per analizzare e confrontare le prestazioni di due celebri algoritmi di ordinamento: ##Insertion-sort e ##Heap-sort.
+Il progetto consiste in un Jupyter Notebook sviluppato per analizzare e confrontare le prestazioni di due celebri algoritmi di ordinamento: **Insertion-sort** e **Heap-sort**.
 
 ## Struttura del progetto
 Il notebook è organizzato nelle seguenti sezioni:
@@ -26,3 +26,5 @@ Il progetto può essere anche completamente eseguito come notebook Jupyter su Go
 Il notebook include una documentazione in Markdown che esplora il trade-off tra i due algoritmi distinguendo caso migliore, caso medio e caso peggiore ed evidenziando le diverse prestazioni in base alla disposizione dei dataset in entrata e alle loro dimensioni n.
 Il sistema di generazione dati usa la funzione random senza seed fisso per assicurare che esecuzioni diverse generino dati diversi, permettendo un'analisi statistica più robusta.
 I risultati sono ben commentati all'interno dei Markdown finali.
+
+
